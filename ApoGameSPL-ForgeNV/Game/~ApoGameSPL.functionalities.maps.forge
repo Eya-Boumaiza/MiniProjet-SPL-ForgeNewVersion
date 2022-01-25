@@ -1,0 +1,119 @@
+{
+    "rangeSeeds": [
+        {
+            "file": "src/apoGame/ApoGamePanel.java",
+            "seeds": [
+                {
+                    "id": "defc5594-8044-409e-9200-31ab5e2ed5a1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "5dc9b22b-ecc0-4b2c-93ab-aa64e7ba2a19",
+                    "startLine": 219,
+                    "startColumn": 2,
+                    "endLine": 219,
+                    "endColumn": 56,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "9079461b-b280-4b69-9ad1-70d921299e48",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "d85aa51d-f201-4716-81a5-be3bc663d86d",
+                    "startLine": 226,
+                    "startColumn": 1,
+                    "endLine": 226,
+                    "endColumn": 56,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "a46edccb-101e-400d-adf1-2e0cd80c457d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bd8f6009-d308-4e3f-9855-7bf2b74a97c8",
+                    "startLine": 233,
+                    "startColumn": 1,
+                    "endLine": 233,
+                    "endColumn": 55,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "src/apoGame/game/ApoGameButtons.java",
+            "seeds": [
+                {
+                    "id": "2748fcdc-dd20-494b-b182-f88beed3fe68",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "5dc9b22b-ecc0-4b2c-93ab-aa64e7ba2a19",
+                    "startLine": 75,
+                    "startColumn": 1,
+                    "endLine": 90,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "4a4dff0f-1d4d-4741-95b0-24a07fe07b5f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "d85aa51d-f201-4716-81a5-be3bc663d86d",
+                    "startLine": 96,
+                    "startColumn": 2,
+                    "endLine": 127,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "fa9991f1-60d0-4d84-bfcc-5e5e61c8caa2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bd8f6009-d308-4e3f-9855-7bf2b74a97c8",
+                    "startLine": 147,
+                    "startColumn": 1,
+                    "endLine": 154,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "src/apoGame/game/ApoGameLevelChooser.java",
+            "seeds": [
+                {
+                    "id": "def267a7-45c0-4664-b8e6-2fda0e33ba2d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "86e7775c-a673-4155-96a9-c293183e19af",
+                    "startLine": 77,
+                    "startColumn": 3,
+                    "endLine": 79,
+                    "endColumn": 5,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "d1e3e610-b0cf-404a-9b1c-855646affe8b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "38960de2-a74a-4eef-b73f-e8ee78abe167",
+                    "startLine": 81,
+                    "startColumn": 3,
+                    "endLine": 83,
+                    "endColumn": 5,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "5349a545-9cf2-4fdd-9031-3e4f21daf080",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "005c9675-6476-4be6-91eb-70b7b1897d77",
+                    "startLine": 85,
+                    "startColumn": 3,
+                    "endLine": 87,
+                    "endColumn": 5,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
+    "fileSeeds": []
+}

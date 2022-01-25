@@ -1,0 +1,14 @@
+{
+    "isAbsolutePath": false,
+    "resourcesPath": "resources/files",
+    "functionalityConfiguration": [
+        "bc51088f-28c5-424f-9ad6-79137beed7cf",
+        "5f2d31e7-69c4-4c0b-a753-bb0cac9bbbf0",
+        "8292e861-d073-47ea-a69a-960050b4e8ca",
+        "84b36bdb-53f6-4151-b04d-4545282b400d"
+    ],
+    "fileResourceConfiguration": [],
+    "textResourceConfiguration": [],
+    "assetResourceConfiguration": [],
+    "colorResourceConfiguration": []
+}

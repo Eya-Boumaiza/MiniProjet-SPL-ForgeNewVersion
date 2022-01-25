@@ -1,0 +1,184 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/apoGame/ApoGamePanel.java",
+            "propagations": [
+                {
+                    "featureKey": "d85aa51d-f201-4716-81a5-be3bc663d86d",
+                    "ranges": [
+                        {
+                            "propagationId": "9079461b-b280-4b69-9ad1-70d921299e48",
+                            "sourceId": "9079461b-b280-4b69-9ad1-70d921299e48",
+                            "startLine": 226,
+                            "startColumn": 1,
+                            "endLine": 226,
+                            "endColumn": 56,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "5dc9b22b-ecc0-4b2c-93ab-aa64e7ba2a19",
+                    "ranges": [
+                        {
+                            "propagationId": "defc5594-8044-409e-9200-31ab5e2ed5a1",
+                            "sourceId": "defc5594-8044-409e-9200-31ab5e2ed5a1",
+                            "startLine": 219,
+                            "startColumn": 2,
+                            "endLine": 219,
+                            "endColumn": 56,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "bd8f6009-d308-4e3f-9855-7bf2b74a97c8",
+                    "ranges": [
+                        {
+                            "propagationId": "a46edccb-101e-400d-adf1-2e0cd80c457d",
+                            "sourceId": "a46edccb-101e-400d-adf1-2e0cd80c457d",
+                            "startLine": 233,
+                            "startColumn": 1,
+                            "endLine": 233,
+                            "endColumn": 55,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/apoGame/game/ApoGameButtons.java",
+            "propagations": [
+                {
+                    "featureKey": "d85aa51d-f201-4716-81a5-be3bc663d86d",
+                    "ranges": [
+                        {
+                            "propagationId": "4a4dff0f-1d4d-4741-95b0-24a07fe07b5f",
+                            "sourceId": "4a4dff0f-1d4d-4741-95b0-24a07fe07b5f",
+                            "startLine": 96,
+                            "startColumn": 2,
+                            "endLine": 127,
+                            "endColumn": 1,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "5dc9b22b-ecc0-4b2c-93ab-aa64e7ba2a19",
+                    "ranges": [
+                        {
+                            "propagationId": "2748fcdc-dd20-494b-b182-f88beed3fe68",
+                            "sourceId": "2748fcdc-dd20-494b-b182-f88beed3fe68",
+                            "startLine": 75,
+                            "startColumn": 1,
+                            "endLine": 90,
+                            "endColumn": 1,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "bd8f6009-d308-4e3f-9855-7bf2b74a97c8",
+                    "ranges": [
+                        {
+                            "propagationId": "fa9991f1-60d0-4d84-bfcc-5e5e61c8caa2",
+                            "sourceId": "fa9991f1-60d0-4d84-bfcc-5e5e61c8caa2",
+                            "startLine": 147,
+                            "startColumn": 1,
+                            "endLine": 154,
+                            "endColumn": 1,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/apoGame/game/ApoGameLevelChooser.java",
+            "propagations": [
+                {
+                    "featureKey": "86e7775c-a673-4155-96a9-c293183e19af",
+                    "ranges": [
+                        {
+                            "propagationId": "def267a7-45c0-4664-b8e6-2fda0e33ba2d",
+                            "sourceId": "def267a7-45c0-4664-b8e6-2fda0e33ba2d",
+                            "startLine": 77,
+                            "startColumn": 3,
+                            "endLine": 79,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "38960de2-a74a-4eef-b73f-e8ee78abe167",
+                    "ranges": [
+                        {
+                            "propagationId": "d1e3e610-b0cf-404a-9b1c-855646affe8b",
+                            "sourceId": "d1e3e610-b0cf-404a-9b1c-855646affe8b",
+                            "startLine": 81,
+                            "startColumn": 3,
+                            "endLine": 83,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "005c9675-6476-4be6-91eb-70b7b1897d77",
+                    "ranges": [
+                        {
+                            "propagationId": "5349a545-9cf2-4fdd-9031-3e4f21daf080",
+                            "sourceId": "5349a545-9cf2-4fdd-9031-3e4f21daf080",
+                            "startLine": 85,
+                            "startColumn": 3,
+                            "endLine": 87,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [],
+    "resourcePropagations": [],
+    "pathPropagations": []
+}

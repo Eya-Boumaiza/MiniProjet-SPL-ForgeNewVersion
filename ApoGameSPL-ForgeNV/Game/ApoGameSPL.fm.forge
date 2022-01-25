@@ -1,0 +1,137 @@
+{
+    "core": {
+        "key": "40c40446-6714-4522-be59-add1f42ebca2",
+        "name": "ApoGameSPL",
+        "type": "Core",
+        "parent": "-1",
+        "parentRelation": "Normal",
+        "presence": "Mandatory",
+        "lgFile": "",
+        "role": "",
+        "hexColor": "",
+        "help": "",
+        "nodeWeight": -1
+    },
+    "functionalities": [
+        {
+            "key": "9d5ba638-7b4d-4528-92a8-a6627035981e",
+            "name": "Niveau",
+            "type": "Functionality feature",
+            "parent": "40c40446-6714-4522-be59-add1f42ebca2",
+            "parentRelation": "Normal",
+            "presence": "Mandatory",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#f6a7c4",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "86e7775c-a673-4155-96a9-c293183e19af",
+            "name": "Facile",
+            "type": "Functionality feature",
+            "parent": "9d5ba638-7b4d-4528-92a8-a6627035981e",
+            "parentRelation": "Normal",
+            "presence": "Normal",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#a64d5d",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "38960de2-a74a-4eef-b73f-e8ee78abe167",
+            "name": "Moyen",
+            "type": "Functionality feature",
+            "parent": "9d5ba638-7b4d-4528-92a8-a6627035981e",
+            "parentRelation": "Normal",
+            "presence": "Normal",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#0985fe",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "005c9675-6476-4be6-91eb-70b7b1897d77",
+            "name": "Difficile",
+            "type": "Functionality feature",
+            "parent": "9d5ba638-7b4d-4528-92a8-a6627035981e",
+            "parentRelation": "Normal",
+            "presence": "Normal",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#c91313",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "d85aa51d-f201-4716-81a5-be3bc663d86d",
+            "name": "Options",
+            "type": "Functionality feature",
+            "parent": "40c40446-6714-4522-be59-add1f42ebca2",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#643b1b",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "5dc9b22b-ecc0-4b2c-93ab-aa64e7ba2a19",
+            "name": "Credits",
+            "type": "Functionality feature",
+            "parent": "40c40446-6714-4522-be59-add1f42ebca2",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#4e692b",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "bd8f6009-d308-4e3f-9855-7bf2b74a97c8",
+            "name": "Editor",
+            "type": "Functionality feature",
+            "parent": "40c40446-6714-4522-be59-add1f42ebca2",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#07645f",
+            "help": "",
+            "nodeWeight": -1
+        }
+    ],
+    "fileResources": [],
+    "textResources": [],
+    "smartAppAssetResources": [],
+    "colorResources": [],
+    "referencedModels": [],
+    "constraints": [
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "38960de2-a74a-4eef-b73f-e8ee78abe167"
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "86e7775c-a673-4155-96a9-c293183e19af"
+            }
+        },
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "005c9675-6476-4be6-91eb-70b7b1897d77"
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "38960de2-a74a-4eef-b73f-e8ee78abe167"
+            }
+        }
+    ]
+}

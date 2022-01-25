@@ -1,0 +1,74 @@
+{
+    "core": {
+        "key": "bc51088f-28c5-424f-9ad6-79137beed7cf",
+        "name": "TicTac-Forge",
+        "type": "Core",
+        "parent": "-1",
+        "parentRelation": "Normal",
+        "presence": "Mandatory",
+        "lgFile": "",
+        "role": "",
+        "hexColor": "",
+        "help": "",
+        "nodeWeight": -1
+    },
+    "functionalities": [
+        {
+            "key": "5f2d31e7-69c4-4c0b-a753-bb0cac9bbbf0",
+            "name": "Moyen",
+            "type": "Functionality feature",
+            "parent": "bc51088f-28c5-424f-9ad6-79137beed7cf",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#37d2c0",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "8292e861-d073-47ea-a69a-960050b4e8ca",
+            "name": "Difficile",
+            "type": "Functionality feature",
+            "parent": "bc51088f-28c5-424f-9ad6-79137beed7cf",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#8a416d",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "84b36bdb-53f6-4151-b04d-4545282b400d",
+            "name": "Facile",
+            "type": "Functionality feature",
+            "parent": "bc51088f-28c5-424f-9ad6-79137beed7cf",
+            "parentRelation": "Normal",
+            "presence": "Mandatory",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#3b35f9",
+            "help": "",
+            "nodeWeight": -1
+        }
+    ],
+    "fileResources": [],
+    "textResources": [],
+    "smartAppAssetResources": [],
+    "colorResources": [],
+    "referencedModels": [],
+    "constraints": [
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "8292e861-d073-47ea-a69a-960050b4e8ca"
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "5f2d31e7-69c4-4c0b-a753-bb0cac9bbbf0"
+            }
+        }
+    ]
+}
